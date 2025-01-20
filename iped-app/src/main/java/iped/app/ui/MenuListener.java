@@ -155,7 +155,7 @@ public class MenuListener implements ActionListener {
 
         @Override
         public String getDescription() {
-            return "Comma Separeted Values (" + CSV + ")"; //$NON-NLS-1$ //$NON-NLS-2$
+            return "Comma Separated Values (" + CSV + ")"; //$NON-NLS-1$ //$NON-NLS-2$
         }
 
     }
